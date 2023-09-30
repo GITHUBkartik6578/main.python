@@ -1,1 +1,2 @@
-# main.python
+a=("hello")
+print(a)
